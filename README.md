@@ -21,7 +21,7 @@
 
 <h3>Conéctate conmigo:</h3>
 <a href="https://dev.to/gustavo_montes_palavecino"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" /></a>
-<a href="https://www.instagram.com/elpalita96"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" /></a>
+
 
 <h3>Tecnologías y Herramientas:</h3>
 <ul>
