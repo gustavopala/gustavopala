@@ -25,9 +25,9 @@
 
 <h3>Tecnologías y Herramientas:</h3>
 <ul>
-  <li><strong>Lenguajes:</strong>JavaScript, TypeScript, SQL, HTML</li>
+  <li><strong>Lenguajes:</strong> JavaScript, TypeScript, SQL, HTML</li>
   <li><strong>Frontend:</strong> React, Tailwind CSS</li>
-  <li><strong>Backend:</strong> Node.js, Express, Sequelize, Socket.IO, Linux; Nginx</li>
+  <li><strong>Backend:</strong> Node.js, Express, Sequelize, Socket.IO, Linux, Nginx</li>
   <li><strong>Bases de Datos:</strong> PostgreSQL, MySQL, SQL Server</li>
 
 </ul>
