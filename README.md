@@ -35,7 +35,7 @@
 <hr>
 
 <h2>🌱 Actualmente:</h2>
-<p>Estoy trabajando en mejorar mis habilidades como desarrollador Full Stack, con tecnologías como <strong>Vite</strong>, <strong>Node.js</strong>, <strong>PostgreSQL</strong>, <strong>Clerk</strong>, entre otras.</p>
+<p>Estoy trabajando en mejorar mis habilidades como desarrollador Full Stack, con tecnologías como <strong>Angular</strong>, <strong>Typescript</strong>, <strong>Redis</strong>,  entre otras.</p>
 
 <hr>
 
